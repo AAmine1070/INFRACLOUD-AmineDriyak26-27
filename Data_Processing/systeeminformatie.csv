@@ -1,0 +1,2 @@
+﻿computernaam,computermodel,processor,aantal_fysieke_cpu_cores,maximale_cpu_frequentie_mhz,totale_hoeveelheid_ram_gb,bestandssysteem_opslag,opslagcapaciteit_gb,mac_adres_primaire_nic,ipv4_adres_primaire_nic,ipv6_adres_primaire_nic,ipv6_link_local_adres_primaire_nic
+UbuntuServer-Python,x86_64,x86_64,4,N/A,7.76,ext4,24.44,08:00:27:30:39:56,10.0.2.15,fd17:625c:f037:2:a00:27ff:fe30:3956,fe80::a00:27ff:fe30:3956
